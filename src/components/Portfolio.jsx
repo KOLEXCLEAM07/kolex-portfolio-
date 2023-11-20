@@ -2,7 +2,7 @@ import React from 'react'
 import  navbar from'../assets/portfolio/navbar.jpg'
 import  reactParallax from'../assets/portfolio/reactParallax.jpg'
 import  reactSmooth from'../assets/portfolio/reactSmooth.jpg'
-import  usestae from'../assets/portfolio/usestate.jpg'
+import  usestate from'../assets/portfolio/usestate.jpg'
 import header from'../assets/portfolio/header.jpg'
 import pricingSection  from'../assets/portfolio/pricingSection.png'
 
@@ -19,7 +19,7 @@ const Portfolio = () => {
         },
         {
           id:"3",
-          src:usestae
+          src:usestate
         },
         {
           id:"4",
