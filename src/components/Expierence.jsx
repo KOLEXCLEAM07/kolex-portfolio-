@@ -1,14 +1,12 @@
 import React from 'react'
 import python from'../assets/python.jpg'
 import css from'../assets/css.png'
-import flutter from'../assets/flutter.png'
 import html from'../assets/html.png'
 import github from'../assets/github.png'
 import jquery from'../assets/jquery.png'
 import javascript from'../assets/javascript.png'
 import react from'../assets/react.png'
 import tailwind from'../assets/tailwind.png'
-import bootstrap from'../assets/bootstrap.jpg'
 
 const Expierence = () => {
 
