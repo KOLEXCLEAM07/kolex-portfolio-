@@ -19,7 +19,7 @@ const Home = () => {
           using technologies like
           React js, Tailwind,Html, Css, Javascript
           I also have basic knowledge in other programming langauges like
-          Bootstrap,Flutter,Jquery,Python.    
+         ,Jquery,Python.    
           </p>
           <div className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
               Portfolio

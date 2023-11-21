@@ -1,4 +1,5 @@
 import AboutMe from "./components/AboutMe";
+import Expierence from "./components/Expierence";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
@@ -12,6 +13,7 @@ function App() {
       <AboutMe/>
       <Social/>
       <Portfolio/>
+      <Expierence/>
     </div>
   );
 }
