@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div
       name="home"
-      className="w-full h-screen bg-gradient-to-b from-black via-black to-gray-800 mt-20 sm:mt-0" 
+      className="w-full h-fit bg-gradient-to-b from-black via-black to-gray-800 pt-20 sm:mt-0" 
     >
       <div className=" max-w-screen-lg mx-auto flex flex-col md:flex-row items-center justify-center h-full px-4">
         <div className="flex flex-col justify-center h-full">
@@ -18,7 +18,7 @@ const Home = () => {
           Currently i love to work on web development 
           using technologies like
           React js, Tailwind,Html, Css, Javascript
-          I also have basic knowledge in other programming langauges like
+          I also have basic knowledge in other programming languages like
          ,Jquery,Python.    
           </p>
           <div>

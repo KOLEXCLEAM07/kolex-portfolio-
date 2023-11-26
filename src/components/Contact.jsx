@@ -1,10 +1,11 @@
 import React from "react";
 
+
 const Contact = () => {
   return (
     <div
       name="contact"
-      className="w-full h-fit bg-gradient-to-b from-black to-gray-800 p-4 text-white "
+      className="w-full h-fit bg-gradient-to-b from-black to-gray-800 p-4 text-white pt-20 "
     >
       <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
         <div className="pb-8">
@@ -15,7 +16,7 @@ const Contact = () => {
         </div>
         <div className="flex justify-center items-center  ">
           <form
-            action="https://getform.io/f/4b41b5da-f34c-462b-9fec-e4e17d4fab46"
+            action="https://formsubmit.co/quawwiyuogunleye@gmail.com"
             method="POST"
             className="flex flex-col w-full   md:w-1/2 "
           >
