@@ -7,6 +7,7 @@ import jquery from'../assets/jquery.png'
 import javascript from'../assets/javascript.png'
 import react from'../assets/react.png'
 import tailwind from'../assets/tailwind.png'
+import bootstrap from'../assets/bootstrap.jpg'
 
 const Expierence = () => {
 
@@ -60,6 +61,12 @@ const Expierence = () => {
             title:"GITHUB",
             style:'shadow-gray-500'
         },
+        {
+          id:9,
+          src:bootstrap,
+          title:"BOOTSTRAP",
+          style:'shadow-purple-500'
+      },
     ]
     return (
       <div
