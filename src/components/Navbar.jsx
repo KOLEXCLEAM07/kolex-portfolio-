@@ -31,7 +31,7 @@ const Navbar = () => {
         },
     ]
   return (
-    <div className=' flex justify-between items-center w-full h-20  text-white relative sm:fixed  px-4 bg-black '>
+    <div className=' flex justify-between items-center w-full h-20 top-0   text-white  fixed   px-4 bg-black '>
         <div className=''> 
             <h1 className=' text-5xl font-signature ml-2 text-white'>Kolex</h1>
         </div>
